@@ -50,7 +50,7 @@ public class AssetBundleBuilder
 	// 基本资源
 	static void ReimportBase()
 	{
-		Reimport("Assets/Data", "test", "prefab");
+		Reimport("Assets/Data/test", "test", "prefab");
 	}
 
 	// 冗余资源
