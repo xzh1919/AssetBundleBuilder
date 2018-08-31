@@ -1,0 +1,7 @@
+.vs/
+*.csproj
+*.sln
+Library/
+Assets/StreamingAssets/
+Temp/
+UnityPackageManager/manifest.json
